@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AllMobileDetails</string>
+    <string name="device_id">Device ID:</string>
+    <string name="android_version">Android Version</string>
+    <string name="audio_information">Audio Information</string>
+    <string name="battery_information">battery Information</string>
+    <string name="cpu_information">CPU information</string>
+    <string name="carrier_information">Carrier information</string>
+    <string name="device_name">Device Name</string>
+    <string name="storage_info">Storage Info</string>
+    <string name="emulator_information">Emulator Information</string>
+    <string name="root_information">Root information</string>
+    <string name="kernel_information">Kernel information</string>
+    <string name="network_information">Network information</string>
+    <string name="pasteboard_information">PasteBoard information</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#47b54a</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#47b54a</color>
+    <color name="statusBarTextColorDark">#787878</color>
+
+    <color name="primaryTextColor">#1c2f41</color>
+    <color name="secondaryTextColor">#808fa5</color>
+
+    <color name="textColorGrey">#555555</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="editText">#F3F3F4</color>
+    <color name="windowBGGrey">#F8F8F8</color>
+    <color name="grey">#e4efec</color>
+    <color name="tabBackground">#F5F6FA</color>
+    <color name="dot_indicator_color">#9b9b9b</color>
+    <color name="divider">#E4EFED</color>
+    <color name="createAnAccount">#4060AD</color>
+    <color name="socialButtonsBG">#F5F8FD</color>
+    <color name="google">#ED4637</color>
+    <color name="facebook">#2173B9</color>
+    <color name="hintColor">#838484</color>
+    <color name="recViewBG">#EBF0F4</color>
+    <color name="cardViewBorder">#9198A8</color>
+
+    <color name="codMessage">#F8B736</color>
+
+    <color name="transparentWhite">#C4FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="red">#FF0000</color>
+    <color name="light_red">#FB9292</color>
+    <color name="light_gray">#D6D6D6</color>
+    <color name="silver">#E5E5E5</color>
+    <color name="gray">#808080</color>
+    <color name="dark_gray">#ff424242</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#354361</color>
+
+    <color name="inProcess">#47b549</color>
+    <color name="delivered">#f7941d</color>
+    <color name="canceled">#dd3737</color>
+    <color name="dispute">#47afb4</color>
+    <color name="new_grey">#E8EBF3</color>
+    <color name="sky_blue">#63BCAC</color>
+    <color name="light_blue">#EEF7FC</color>
+    <color name="language_bg_color">#EDF6FB</color>
+    <color name="payment_bg_color">#F4F5F9</color>
+    <color name="textLight">#888888</color>
+    <color name="new_bg_grey">#EAEDF4</color>
+    <color name="dark_blue">#1C2F41</color>
+    <color name="empty_state_bg">#F6F6F6</color>
+    <color name="ice_color">#E2EDEA</color>
+
+
+    <!-- Moengage Theme customisation -->
+    <color name="moe_card_color_accent">#1C64D0</color>
+    <color name="moe_card_color_primary_dark">@color/black</color>
+    <color name="moe_card_color_primary">@color/white</color>
+    <color name="moe_card_control_color">@color/black</color>
+
+</resources>

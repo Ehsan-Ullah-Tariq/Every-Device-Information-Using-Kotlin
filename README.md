@@ -1,2 +1,22 @@
-"# Every Device Hardware Information Using Kotlin"
--Get Device Audio <br />
+# Every Device Hardware Information Using Kotlin
+-Get Device Audio Information<br />
+-Get Device ID Information<br />
+-Get Device Version Information<br />
+-Get Device Carrier Information<br />
+-Get Device CPU Information<br />
+-Get Device Storage Information<br />
+-Get Device Name Information<br />
+-Get Device Network Information<br />
+-Get Device Kernal Information<br />
+-Get Device Emulator or Not Information<br />
+-Get Device Root Information<br />
+-Get Device Ram Information<br />
+-Get Device Paste Board Data Information<br />
+-Get Device Brightness Information<br />
+-Get Device Mac Information<br />
+-Get Device Resolution Information<br />
+-Get Device System Up Time Information<br />
+-Get Device Local Time Information<br />
+-Get Device Local Language Information<br />
+-Get Device WIFI SSID Information<br />
+-Get Device Compus Direction Information<br />
